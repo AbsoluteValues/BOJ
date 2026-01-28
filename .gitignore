@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Java build
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle / Maven
+/build/
+/target/
+
+# Logs
+*.log
